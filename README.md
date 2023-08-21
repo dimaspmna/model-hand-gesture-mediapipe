@@ -1,0 +1,1 @@
+# model-hand-gesture-mediapipe
